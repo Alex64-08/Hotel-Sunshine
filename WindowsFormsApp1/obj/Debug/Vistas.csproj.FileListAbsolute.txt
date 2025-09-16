@@ -1,0 +1,12 @@
+C:\Users\Alex y Andrew\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alex y Andrew\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alex y Andrew\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alex y Andrew\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Modelos.dll
+C:\Users\Alex y Andrew\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Modelos.pdb
+C:\Users\Alex y Andrew\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Alex y Andrew\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alex y Andrew\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\Alex y Andrew\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Alex y Andrew\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Alex y Andrew\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alex y Andrew\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
