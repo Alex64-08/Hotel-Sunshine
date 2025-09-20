@@ -3,63 +3,63 @@
   "WorkspaceRootPath": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\windowsformsapp1\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|solutionrelative:windowsformsapp1\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\windowsformsapp1\\forms\\regempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\windowsformsapp1\\forms\\regempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|solutionrelative:windowsformsapp1\\forms\\regempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\windowsformsapp1\\forms\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|solutionrelative:windowsformsapp1\\forms\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\windowsformsapp1\\forms\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|solutionrelative:windowsformsapp1\\forms\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\windowsformsapp1\\forms\\reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|solutionrelative:windowsformsapp1\\forms\\reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\windowsformsapp1\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|solutionrelative:windowsformsapp1\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\windowsformsapp1\\forms\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\windowsformsapp1\\forms\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|solutionrelative:windowsformsapp1\\forms\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\windowsformsapp1\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|solutionrelative:windowsformsapp1\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\windowsformsapp1\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|solutionrelative:windowsformsapp1\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\modelos\\entidades\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\windowsformsapp1\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|solutionrelative:windowsformsapp1\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\modelos\\entidades\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\modelos\\entidades\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\modelos\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\windowsformsapp1\\forms\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|solutionrelative:windowsformsapp1\\forms\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\windowsformsapp1\\forms\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|solutionrelative:windowsformsapp1\\forms\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\windowsformsapp1\\forms\\reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|solutionrelative:windowsformsapp1\\forms\\reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\windowsformsapp1\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFAEE0D-4D77-4815-B62B-CF7179941472}|WindowsFormsApp1\\Vistas.csproj|solutionrelative:windowsformsapp1\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\modelos\\entidades\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\modelos\\entidades\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\modelos\\entidades\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\modelos\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\modelos\\entidades\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\modelos\\entidades\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|c:\\users\\alex y andrew\\desktop\\enunciado04 20250406 20250145\\modelos\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\modelos\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F805022-B69B-44ED-A985-FE04CE47CEFE}|Modelos\\Modelos.csproj|solutionrelative:modelos\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\Form1.cs",
@@ -87,66 +87,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegEmpleados.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\RegEmpleados.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\RegEmpleados.cs",
-              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\RegEmpleados.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WindowsFormsApp1\\Forms\\RegEmpleados.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T20:57:00.214Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Reservaciones.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Reservaciones.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\Reservaciones.cs",
-              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Reservaciones.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WindowsFormsApp1\\Forms\\Reservaciones.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T20:57:58.83Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Servicios.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Servicios.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\Servicios.cs",
-              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Servicios.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WindowsFormsApp1\\Forms\\Servicios.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T20:58:18.675Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ventas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Ventas.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\Ventas.cs",
-              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Ventas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WindowsFormsApp1\\Forms\\Ventas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T20:58:09.639Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Login.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\Login.cs",
-              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Login.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WindowsFormsApp1\\Forms\\Login.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T20:58:26.354Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Habitaciones.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Habitaciones.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\Habitaciones.cs",
@@ -158,59 +98,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Form1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\Form1.cs",
-              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Form1.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Forms\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBUAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\Login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T20:38:20.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T20:58:26.354Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Reservas.cs",
-              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\Modelos\\Entidades\\Reservas.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Reservas.cs",
-              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\Modelos\\Entidades\\Reservas.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Reservas.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:34:05.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Servicios.cs",
-              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\Modelos\\Entidades\\Servicios.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Servicios.cs",
-              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\Modelos\\Entidades\\Servicios.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Servicios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:33:37.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Habitaciones.cs",
-              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\Modelos\\Entidades\\Habitaciones.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Habitaciones.cs",
-              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\Modelos\\Entidades\\Habitaciones.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Habitaciones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:32:30.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\Modelos\\Entidades\\Usuario.cs",
               "RelativeDocumentMoniker": "Modelos\\Entidades\\Usuario.cs",
@@ -223,6 +123,100 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\RegEmpleados.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\RegEmpleados.cs",
+              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\RegEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\RegEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:57:00.214Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ventas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Ventas.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\Ventas.cs",
+              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Ventas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\Ventas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:58:09.639Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Servicios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Servicios.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\Servicios.cs",
+              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Servicios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\Servicios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:58:18.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reservaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Reservaciones.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\Reservaciones.cs",
+              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Reservaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\Reservaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:57:58.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\WindowsFormsApp1\\Forms\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:38:20.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reservas.cs",
+              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\Modelos\\Entidades\\Reservas.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Reservas.cs",
+              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\Modelos\\Entidades\\Reservas.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Reservas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:34:05.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\Modelos\\Entidades\\Servicios.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Servicios.cs",
+              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\Modelos\\Entidades\\Servicios.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Servicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:33:37.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Habitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\Modelos\\Entidades\\Habitaciones.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Habitaciones.cs",
+              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\Modelos\\Entidades\\Habitaciones.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Habitaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:32:30.896Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Alex y Andrew\\Desktop\\Enunciado04 20250406 20250145\\Modelos\\Entidades\\Cliente.cs",
@@ -231,8 +225,7 @@
               "RelativeToolTip": "Modelos\\Entidades\\Cliente.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:29:39.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T19:29:39.047Z"
             },
             {
               "$type": "Document",
@@ -244,8 +237,7 @@
               "RelativeToolTip": "Modelos\\Entidades\\Roles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T14:59:45.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T14:59:45.744Z"
             },
             {
               "$type": "Document",
@@ -257,8 +249,7 @@
               "RelativeToolTip": "Modelos\\Conexion\\ConexionDB.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T17:44:01.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T17:44:01.963Z"
             }
           ]
         }

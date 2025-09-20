@@ -29,19 +29,19 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnClose = new System.Windows.Forms.Button();
-            this.btnEmpleados = new System.Windows.Forms.Button();
-            this.btnReservaciones = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.btnServicios = new System.Windows.Forms.Button();
             this.btnVentas = new System.Windows.Forms.Button();
             this.btnHabitaciones = new System.Windows.Forms.Button();
-            this.btnServicios = new System.Windows.Forms.Button();
+            this.btnReservaciones = new System.Windows.Forms.Button();
+            this.btnEmpleados = new System.Windows.Forms.Button();
+            this.panel3 = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
-            this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -54,48 +54,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(841, 78);
             this.panel1.TabIndex = 0;
-            // 
-            // panel2
-            // 
-            this.panel2.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.panel2.Controls.Add(this.btnServicios);
-            this.panel2.Controls.Add(this.btnVentas);
-            this.panel2.Controls.Add(this.btnHabitaciones);
-            this.panel2.Controls.Add(this.btnReservaciones);
-            this.panel2.Controls.Add(this.btnEmpleados);
-            this.panel2.Location = new System.Drawing.Point(12, 96);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(131, 381);
-            this.panel2.TabIndex = 1;
-            // 
-            // panel3
-            // 
-            this.panel3.BackColor = System.Drawing.Color.White;
-            this.panel3.Location = new System.Drawing.Point(150, 96);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(703, 381);
-            this.panel3.TabIndex = 2;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Harlow Solid Italic", 20.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(100, 23);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(186, 34);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Hotel Sunshine";
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.Shine_Sprite;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(94, 78);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
             // 
             // btnClose
             // 
@@ -112,33 +70,53 @@
             this.btnClose.UseVisualStyleBackColor = false;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
-            // btnEmpleados
+            // pictureBox1
             // 
-            this.btnEmpleados.BackColor = System.Drawing.Color.Silver;
-            this.btnEmpleados.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnEmpleados.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnEmpleados.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnEmpleados.Font = new System.Drawing.Font("Lucida Bright", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEmpleados.Location = new System.Drawing.Point(0, 0);
-            this.btnEmpleados.Name = "btnEmpleados";
-            this.btnEmpleados.Size = new System.Drawing.Size(131, 45);
-            this.btnEmpleados.TabIndex = 0;
-            this.btnEmpleados.Text = "Registro de Empleados";
-            this.btnEmpleados.UseVisualStyleBackColor = false;
+            this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.Shine_Sprite;
+            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(94, 78);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 1;
+            this.pictureBox1.TabStop = false;
             // 
-            // btnReservaciones
+            // label1
             // 
-            this.btnReservaciones.BackColor = System.Drawing.Color.Silver;
-            this.btnReservaciones.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnReservaciones.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnReservaciones.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnReservaciones.Font = new System.Drawing.Font("Lucida Bright", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnReservaciones.Location = new System.Drawing.Point(0, 45);
-            this.btnReservaciones.Name = "btnReservaciones";
-            this.btnReservaciones.Size = new System.Drawing.Size(131, 45);
-            this.btnReservaciones.TabIndex = 1;
-            this.btnReservaciones.Text = "Reservaciones";
-            this.btnReservaciones.UseVisualStyleBackColor = false;
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Harlow Solid Italic", 20.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(100, 23);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(186, 34);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Hotel Sunshine";
+            // 
+            // panel2
+            // 
+            this.panel2.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.panel2.Controls.Add(this.btnServicios);
+            this.panel2.Controls.Add(this.btnVentas);
+            this.panel2.Controls.Add(this.btnHabitaciones);
+            this.panel2.Controls.Add(this.btnReservaciones);
+            this.panel2.Controls.Add(this.btnEmpleados);
+            this.panel2.Location = new System.Drawing.Point(12, 96);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(131, 381);
+            this.panel2.TabIndex = 1;
+            // 
+            // btnServicios
+            // 
+            this.btnServicios.BackColor = System.Drawing.Color.Silver;
+            this.btnServicios.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnServicios.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnServicios.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnServicios.Font = new System.Drawing.Font("Lucida Bright", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnServicios.Location = new System.Drawing.Point(0, 180);
+            this.btnServicios.Name = "btnServicios";
+            this.btnServicios.Size = new System.Drawing.Size(131, 45);
+            this.btnServicios.TabIndex = 1;
+            this.btnServicios.Text = "Servicios";
+            this.btnServicios.UseVisualStyleBackColor = false;
             // 
             // btnVentas
             // 
@@ -168,25 +146,47 @@
             this.btnHabitaciones.Text = "Registro de Habitaciones";
             this.btnHabitaciones.UseVisualStyleBackColor = false;
             // 
-            // btnServicios
+            // btnReservaciones
             // 
-            this.btnServicios.BackColor = System.Drawing.Color.Silver;
-            this.btnServicios.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnServicios.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnServicios.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnServicios.Font = new System.Drawing.Font("Lucida Bright", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnServicios.Location = new System.Drawing.Point(0, 180);
-            this.btnServicios.Name = "btnServicios";
-            this.btnServicios.Size = new System.Drawing.Size(131, 45);
-            this.btnServicios.TabIndex = 1;
-            this.btnServicios.Text = "Servicios";
-            this.btnServicios.UseVisualStyleBackColor = false;
+            this.btnReservaciones.BackColor = System.Drawing.Color.Silver;
+            this.btnReservaciones.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnReservaciones.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnReservaciones.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnReservaciones.Font = new System.Drawing.Font("Lucida Bright", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnReservaciones.Location = new System.Drawing.Point(0, 45);
+            this.btnReservaciones.Name = "btnReservaciones";
+            this.btnReservaciones.Size = new System.Drawing.Size(131, 45);
+            this.btnReservaciones.TabIndex = 1;
+            this.btnReservaciones.Text = "Reservaciones";
+            this.btnReservaciones.UseVisualStyleBackColor = false;
+            // 
+            // btnEmpleados
+            // 
+            this.btnEmpleados.BackColor = System.Drawing.Color.Silver;
+            this.btnEmpleados.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnEmpleados.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnEmpleados.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEmpleados.Font = new System.Drawing.Font("Lucida Bright", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEmpleados.Location = new System.Drawing.Point(0, 0);
+            this.btnEmpleados.Name = "btnEmpleados";
+            this.btnEmpleados.Size = new System.Drawing.Size(131, 45);
+            this.btnEmpleados.TabIndex = 0;
+            this.btnEmpleados.Text = "Registro de Empleados";
+            this.btnEmpleados.UseVisualStyleBackColor = false;
+            // 
+            // panel3
+            // 
+            this.panel3.BackColor = System.Drawing.Color.White;
+            this.panel3.Location = new System.Drawing.Point(150, 96);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(703, 381);
+            this.panel3.TabIndex = 2;
             // 
             // frmDashboardPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.BackColor = System.Drawing.Color.LightSkyBlue;
             this.ClientSize = new System.Drawing.Size(865, 489);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
@@ -197,8 +197,8 @@
             this.Text = "Form1";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            this.panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.panel2.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
